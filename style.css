@@ -1,9 +1,36 @@
 body{
-    font-family: 'Playfair Display', serif;
-    font-family: 'The Nautigal', cursive;
+    font-size: large;
 
 }
 h1{
    font-size: 60px;
 
 }
+.orange-color{
+      color: orange;
+
+}
+
+h3{
+   color: rgb(16, 70, 107);
+
+}
+p{
+  color: crimson;
+
+}
+section{
+       display: flex;
+}
+.half-width{
+            width:50%;   
+
+}
+.half-width img{
+                width:50%
+}
+
+
+
+
+
